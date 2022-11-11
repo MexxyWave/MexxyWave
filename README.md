@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MexxyWave
 - 👀 I’m interested in ... Website Development
 - 🌱 I’m currently learning ...HTML, CSS, JAVASCRIPT, React.js, and node.js etc.......... FULLSTACK WEBSITE DEVELOPMENT
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on with fellow developers ...
 - 📫 How to reach me ... achakarasamuel@gmail.com no
 
 <!---
